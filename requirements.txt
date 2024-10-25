@@ -50,6 +50,6 @@ torch==1.4.0
 tqdm==4.47.0
 -e git+https://github.com/huggingface/transformers.git@cefd51c50cc08be8146c1151544495968ce8f2ad#egg=transformers
 urllib3==1.25.9
-werkzeug==1.0.1
+werkzeug==3.0.6
 wheel==0.34.2; python_version >= "3"
 zipp==3.1.0; python_version < "3.8"
